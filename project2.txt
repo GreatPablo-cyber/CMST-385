@@ -19,15 +19,15 @@
 			<ul> <li>Home Page</li> <li>How to Play</li> <li>Shops Nearby</li> <li>Shop Details</li> <li>Report Page</li> </ul>
 		<h2>Wireframe and Site Map</h2>
 			<p> The images show the baseline for each page</p>
-			<img src="imgs/wireframes.png"
-			alt="wireframes"
+			<img src="imgs/wireframe.png"
+			alt="Wire Frame Baseline"
 			width="600">
-			<img src="imgs/wireframes2.png"
-			alt="wireframes2"
+			<img src="imgs/wireframe2.png"
+			alt="Wire Frame Baseline 2"
 			width="600">
 		<h2>Project Resources</h2>
 			<p>Youtube tutorials covering web designs and layouts will be used to create a visual understanding when creating this project
-			<a href=https://www.youtube.com/ target="_blank">
+			<a href=https://www.youtube.com/" target="_blank">
 			Youtube </a>
 			</p>
 			<p> <a href="#top">Back to Top</a> </p>
